@@ -80,8 +80,15 @@ print("Number Plate Text:", plate_text)
 - The model detects the number plate in an image.
 - Extracted text is saved in a CSV file for further processing.
 
+## Google Colab Notebook
+You can access and run the project in Google Colab using the following link:
+[Colab Notebook](https://colab.research.google.com/drive/1LyjS-Mff7otCKb16SP35SeNcFEdQjRBP)
+
 ## Future Enhancements
 - Improve OCR accuracy by preprocessing images.
 - Extend support for multiple kinds for numberplates.
 - Integrate real-time video feed processing.
+
+
+
 
