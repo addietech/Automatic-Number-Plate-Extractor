@@ -1,5 +1,3 @@
-# Automatic-Number-Plate-Extractor
-
 # Automatic Number Plate Extractor
 
 ## Overview
